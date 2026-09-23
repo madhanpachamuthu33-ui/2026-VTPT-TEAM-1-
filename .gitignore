@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.local
+.DS_Store
+coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+**/thumb*client*
